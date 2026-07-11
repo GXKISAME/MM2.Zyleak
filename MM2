@@ -1,3 +1,2 @@
-ID="0ce781d0-97cc-4116-9c39-5cc243883915";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
-loadstring(game:HttpGet("https://api.overdrivehub.xyz/v1/auth"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6IjBjZTc4MWQwLTk3Y2MtNDExNi05YzM5LTVjYzI0Mzg4MzkxNSIsImtpbmQiOiJsb2FkZXIifQ"))()
+loadstring(game:HttpGet("https://cdn.project-reverse.org/overdrive_main.luau"))();
